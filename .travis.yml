@@ -1,0 +1,5 @@
+language: go
+#go_import_path: example.org/pkg/foo
+go:
+  - 1.6
+  - tip
